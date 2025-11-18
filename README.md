@@ -27,7 +27,7 @@ This appimage works without fuse2 as it can use fuse3 instead, it can also work 
 
 <details>
   <summary><b><i>raison d'être</i></b></summary>
-    <img src="https://github.com/user-attachments/assets/d40067a6-37d2-4784-927c-2c7f7cc6104b" alt="Inspiration Image">
+    <img src="https://github.com/user-attachments/assets/29576c50-b39c-46c3-8c16-a54999438646" alt="Inspiration Image">
   </a>
 </details>
 
